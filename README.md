@@ -5,4 +5,6 @@
 This sample application is unfinished
 and this code still sucks....
 
+![](Screenshot.png)
+
 Refrerd: [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samplesz)
