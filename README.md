@@ -1,4 +1,4 @@
-# Direct2D Photo Viewer
+# Direct2D Sample Photo Viewer
 
 まだコードが雑。マウス操作は未完成。
 
